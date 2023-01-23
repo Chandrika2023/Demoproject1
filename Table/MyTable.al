@@ -13,6 +13,10 @@ table 50023 MyTable
         {
             DataClassification = ToBeClassified;
         }
+        field(3; "Address"; Text[250])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
     
     keys
